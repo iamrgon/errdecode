@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"iamrgon.com/pkg/errdecode"
+	"github.com/iamrgon/errdecode"
 )
 
 const (
