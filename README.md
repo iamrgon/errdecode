@@ -1,4 +1,4 @@
-# errdecode [![godoc](https://godoc.org/github.com/iamrgon/errdecode?status.svg)](https://godoc.org/github.com/iamrgon/errdecode)
+# errdecode [![godoc](https://godoc.org/github.com/iamrgon/errdecode?status.svg)](https://godoc.org/github.com/iamrgon/errdecode) [![Build Status](https://travis-ci.org/iamrgon/errdecode.svg?branch=master)](https://travis-ci.org/iamrgon/errdecode)
 
 Package errdecode provides a way to represent rules for classifying error
 values returned by your application.
@@ -40,3 +40,5 @@ func main() {
 
 ## License
 Apache
+
+
